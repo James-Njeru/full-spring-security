@@ -1,3 +1,4 @@
+/*
 package com.example.full_spring_security.security;
 
 import com.example.full_spring_security.entity.Authority;
@@ -14,3 +15,4 @@ public class SecurityAuthority implements GrantedAuthority {
         return authority.getName();
     }
 }
+*/

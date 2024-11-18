@@ -1,3 +1,4 @@
+/*
 package com.example.full_spring_security.service;
 
 import com.example.full_spring_security.entity.Users;
@@ -25,3 +26,4 @@ public class JpaUserDetailsService implements UserDetailsService {
                 .orElseThrow(()-> new UsernameNotFoundException("Username not found"));
     }
 }
+*/

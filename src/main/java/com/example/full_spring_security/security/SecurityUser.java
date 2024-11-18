@@ -1,3 +1,4 @@
+/*
 package com.example.full_spring_security.security;
 
 import com.example.full_spring_security.entity.Users;
@@ -52,3 +53,4 @@ public class SecurityUser implements UserDetails {
         return true;
     }
 }
+*/
